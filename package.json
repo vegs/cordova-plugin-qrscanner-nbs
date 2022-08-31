@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.nbsgroup.it/g.trontini/cordova-plugin-qrscanner-nbs"
+    "url": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs"
   },
   "keywords": [
     "cordova",
