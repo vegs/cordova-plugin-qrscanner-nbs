@@ -46,12 +46,12 @@
     "electron",
     "NW.js"
   ],
-  "author": "Jason Dreyzehner",
+  "author": "Gianluigi Trontini",
   "license": "MIT",
   "bugs": {
-    "url": "https://git.nbsgroup.it/g.trontini/cordova-plugin-qrscanner-nbsissues"
+    "url": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs"
   },
-  "homepage": "https://git.nbsgroup.it/g.trontini/cordova-plugin-qrscanner-nbs",
+  "homepage": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
   "dependencies": {
     "qrcode-reader": "^1.0.4",
