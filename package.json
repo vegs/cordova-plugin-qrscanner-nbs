@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-qrscanner-nbs",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
     "id": "cordova-plugin-qrscanner-nbs",
@@ -75,9 +75,6 @@
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
-    },
-    "validate-commit-msg": {
-      "helpMessage": "\nThis project uses commitizen to document changes. Please try:\nnpm install commitizen -g && git cz\n"
     }
   }
 }
