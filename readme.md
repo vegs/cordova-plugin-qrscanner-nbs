@@ -24,8 +24,6 @@ Other packages on npm with apparent solutions keep installing the original plugi
 
 **It's working with the latest android platform and contains fixes for compilation errors due to incompatibilities with Swift 5**
 
-_It's working with the latest Android/iOS platforms and contains fixes for compilation errors due to incompatibilities with Swift 5_
-
 ---
 
 If you're using Ionic, switch to Capacitor.
